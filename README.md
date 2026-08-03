@@ -3,6 +3,7 @@
 ## Table of Contents
 * [What is BLINKY KEYCHAIN?](#what-is-blinky-keychain)
 * [How to use BLINKY](#how-to-use-blinky)
+* [How to build BLINKY](#how-to-build-blinky)
 * [Schematics](#schematics)
 * [BOM](#bom)
 
@@ -11,8 +12,16 @@ Blinky Keycahin is a custom made PCB that works as a keychain. it's so interacti
 
 ## How to use BLINKY?
 the LEDS always keep making these cool patterns and the OLED Display shows the time to make sure that you will not get late to any appointment!
+
+## How to build BLINKY?
+1. First install the Gerber files and use JLCPCB to build the PCB.
+2. Buy the rest of the components and use a soldering iron to solder everything.
+3. Upload the code
+4. ENJOY IT!!!!
+
 ## Schematics
 <img width="1111" height="556" alt="Screenshot 2026-08-02 203250" src="https://github.com/user-attachments/assets/b3c5e5ab-94e0-4ee9-a5d3-bfecb77afcce" />
+
 
 ## BOM
 | Part | Amount | Price | Link |
