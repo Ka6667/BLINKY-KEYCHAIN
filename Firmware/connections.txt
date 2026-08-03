@@ -1,0 +1,16 @@
+LED
+D0  
+D1
+D2
+D3
+D6
+-------------------------
+OLED
+SDA = D4
+SCL = D5
+-------------------------
+Libraries included!!! 
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#include <RTClib.h>
