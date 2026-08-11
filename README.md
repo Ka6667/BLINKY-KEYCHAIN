@@ -30,7 +30,7 @@ the LEDS always keep making these cool patterns and the OLED Display shows the t
 ## PCB Design
 <img width="845" height="695" alt="Screenshot 2026-08-02 191355" src="https://github.com/user-attachments/assets/6f6ec36a-32b7-4997-bdc2-94eb3364656f" />
 <img width="919" height="742" alt="Screenshot 2026-08-02 191340" src="https://github.com/user-attachments/assets/fbfb1123-737c-46e7-a4c2-5463d3fcc696" />
-<img width="789" height="627" alt="Screenshot 2026-07-20 200134" src="https://github.com/user-attachments/assets/24534854-753d-4dcc-83ca-be05c73379d9" />
+
 
 
 ## BOM
