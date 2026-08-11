@@ -2,13 +2,18 @@
 
 ## Table of Contents
 * [What is BLINKY KEYCHAIN?](#what-is-blinky-keychain)
+* [Why did I build it?](#why-did-i-build-it)
 * [How to use BLINKY](#how-to-use-blinky)
 * [How to build BLINKY](#how-to-build-blinky)
 * [Schematics](#schematics)
+* [PCB Design](#pcb-design)
 * [BOM](#bom)
 
 ## What is BLINKY KEYCHAIN??
 Blinky Keycahin is a custom made PCB that works as a keychain. it's so interactive and it looks really cool with built in modes for the LEDs. it also tells you the time in the OLED display. it's so small and so easy to assymble.
+
+## Why did I build it?
+This project is made for a friend. This friend always like to buy matching key chains so I decided to make one for both of us. The process of building was quite simple. I made the schematics using Kicad then I made the PCB. then I made a very simple zine page.
 
 ## How to use BLINKY?
 the LEDS always keep making these cool patterns and the OLED Display shows the time to make sure that you will not get late to any appointment!
@@ -21,6 +26,11 @@ the LEDS always keep making these cool patterns and the OLED Display shows the t
 
 ## Schematics
 <img width="1111" height="556" alt="Screenshot 2026-08-02 203250" src="https://github.com/user-attachments/assets/b3c5e5ab-94e0-4ee9-a5d3-bfecb77afcce" />
+
+## PCB Design
+<img width="845" height="695" alt="Screenshot 2026-08-02 191355" src="https://github.com/user-attachments/assets/6f6ec36a-32b7-4997-bdc2-94eb3364656f" />
+<img width="919" height="742" alt="Screenshot 2026-08-02 191340" src="https://github.com/user-attachments/assets/fbfb1123-737c-46e7-a4c2-5463d3fcc696" />
+<img width="789" height="627" alt="Screenshot 2026-07-20 200134" src="https://github.com/user-attachments/assets/24534854-753d-4dcc-83ca-be05c73379d9" />
 
 
 ## BOM
