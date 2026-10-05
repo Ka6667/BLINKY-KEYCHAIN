@@ -1,4 +1,5 @@
-<img width="1410" height="2000" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/80e7b197-464b-441b-804c-2ed5611e7cdd" />
+<img width="1410" height="2000" alt="Add a heading" src="https://github.com/user-attachments/assets/110b5c8f-03b7-4c4b-a480-a861217415be" />
+
 
 ## Table of Contents
 * [What is BLINKY KEYCHAIN?](#what-is-blinky-keychain)
@@ -28,8 +29,9 @@ the LEDS always keep making these cool patterns and the OLED Display shows the t
 <img width="1111" height="556" alt="Screenshot 2026-08-02 203250" src="https://github.com/user-attachments/assets/b3c5e5ab-94e0-4ee9-a5d3-bfecb77afcce" />
 
 ## PCB Design
-<img width="845" height="695" alt="Screenshot 2026-08-02 191355" src="https://github.com/user-attachments/assets/6f6ec36a-32b7-4997-bdc2-94eb3364656f" />
-<img width="919" height="742" alt="Screenshot 2026-08-02 191340" src="https://github.com/user-attachments/assets/fbfb1123-737c-46e7-a4c2-5463d3fcc696" />
+
+<img width="1147" height="679" alt="Screenshot 2026-10-05 142538" src="https://github.com/user-attachments/assets/6fe18566-c170-4cdd-931a-f8dd1ed0b942" />
+<img width="772" height="799" alt="Screenshot 2026-10-05 142600" src="https://github.com/user-attachments/assets/51039911-9e2e-4c1f-a9c3-5e232d9dbb4c" />
 
 
 
